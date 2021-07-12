@@ -1,3 +1,7 @@
-linux
-lin
-win
+linux/__pycache__
+linux/build
+linux/main.spec
+
+win/data/__pycache__
+win/data/build
+win/data/main.spec
